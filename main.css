@@ -1,0 +1,35 @@
+#container{
+	border: solid 5px #ccc;
+}
+table{
+	/*border-collapse: collapse;	*/
+	padding: 10px 0 10px 10px;
+}
+
+/*table tr{
+	padding: 10px 0 10px 10px;
+
+}*/
+
+th, td{
+
+	border-bottom: solid 1px #ccc;
+	padding: 5px 5px;
+}
+
+th{
+	border-top: solid 1px #ccc;
+	background: #ccc;
+}
+
+.text-left{
+	text-align: left;
+}
+
+.text-right{
+	text-align: right;
+}
+
+.padding-right{
+	padding-right: 140px;
+}
