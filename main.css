@@ -3,15 +3,18 @@ body{
 }
 .container{
 	border: solid 5px #ccc;
-	width: 100%;
+	width: 70%;
+	padding: 15px 15px;
+	box-sizing: border-box;
+	margin: 0 auto;
 }
 
 .clearfix{
 	overflow: hidden;
 }
 table{
-	/*border-collapse: collapse;	*/
-	padding: 10px 0 10px 10px;
+	border-collapse: collapse;	
+	/*padding: 10px 0 10px 10px;*/
 	width: 33%;
 	float: left;
 }
@@ -41,7 +44,5 @@ th{
 	text-align: right;
 }
 
-/*.padding-right{
-	padding-right: 140px;
-}*/
+
 
